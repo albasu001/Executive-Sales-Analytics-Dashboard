@@ -131,6 +131,17 @@ Executive-Sales-Analytics-Dashboard/
 - GitHub
 - Microsoft Excel
 
+  ## 📌 Project Overview
+
+This project demonstrates an end-to-end Business Intelligence workflow using Python, SQL, and data visualization techniques. The objective is to transform raw retail sales data into actionable business insights through data cleaning, analysis, and interactive reporting.
+
+The project follows a real-world analytics process:
+- Collect and clean raw sales data
+- Analyze business performance using SQL
+- Calculate key performance indicators (KPIs)
+- Visualize trends and performance
+- Provide business recommendations
+
 ## Author
 
 **Adam Muhammad Albasu**
