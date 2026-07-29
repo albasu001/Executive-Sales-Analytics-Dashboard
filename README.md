@@ -54,7 +54,9 @@ This project demonstrates an end-to-end Business Intelligence workflow using Pyt
 - Top 10 Products
 - Top 10 Customers
 - Interactive Filters
+### Top Products Insight
 
+The Top 10 Products analysis identifies the products contributing the highest revenue. These products should receive priority in inventory planning, promotional campaigns, and demand forecasting to maximize profitability.
 ---
 
 ## Repository Structure
