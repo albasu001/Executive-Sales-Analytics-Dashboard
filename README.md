@@ -109,6 +109,28 @@ Executive-Sales-Analytics-Dashboard/
 
 ![Profit by Category](Images/profit_by_category.png)
 
+## 🛠️ Skills Demonstrated
+
+### Programming
+- Python
+- SQL
+
+### Data Analysis
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- KPI Development
+- Business Analysis
+
+### Visualization
+- Matplotlib
+- Business Reporting
+
+### Tools
+- Google Colab
+- Git
+- GitHub
+- Microsoft Excel
+
 ## Author
 
 **Adam Muhammad Albasu**
