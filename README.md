@@ -83,6 +83,31 @@ Executive-Sales-Analytics-Dashboard/
 - Which categories perform best?
 
 ---
+## Dashboard Preview
+
+### Monthly Sales Trend
+
+![Monthly Sales Trend](Images/monthly_sales_trend.png)
+
+### Sales by Region
+
+![Sales by Region](Images/sales_by_region.png)
+
+### Sales by Category
+
+![Sales by Category](Images/sales_by_category.png)
+
+### Top 10 Products
+
+![Top Products](Images/top_10_products.png)
+
+### Top 10 Customers
+
+![Top Customers](Images/top_10_customers.png)
+
+### Profit by Category
+
+![Profit by Category](Images/profit_by_category.png)
 
 ## Author
 
